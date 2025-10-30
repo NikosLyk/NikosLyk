@@ -1,12 +1,11 @@
-### Hi there, I'm [Your Name] 👋
+### Hi there, I'm Nikos 👋
 
 I'm a MSc Autonomous Systems studen at DTU based in Copenhagen, Denmark. I'm passionate about building ML, DL models and I love working with python.
 
 <br />
 
-* 🔭 I’m currently working on **[Your Cool Project]**.
-* 🌱 I’m currently learning **[A New Skill or Technology]**.
-* 💬 Ask me about **[Topics you're confident in, e.g., Python, React, UI/UX]**.
+* 🔭 I’m currently working on **Deep Learning in Computer Vision Projects**.
+* 🌱 I’m currently learning **Perception for Autonomous Systems**.
 * 📫 How to reach me: **nikoslyk@hotmail.com**
 
 <br />
@@ -22,10 +21,18 @@ I'm a MSc Autonomous Systems studen at DTU based in Copenhagen, Denmark. I'm pas
 
 #### Frameworks & Libraries
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  </p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black" alt="scikit-learn">
+</p>
+
+#### Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+</p>
 
 #### Tools & Platforms
 <p>
@@ -41,11 +48,11 @@ I'm a MSc Autonomous Systems studen at DTU based in Copenhagen, Denmark. I'm pas
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikosLyk&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
   
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&layout=compact&theme=github_dark" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikosLyk&layout=compact&theme=github_dark" alt="Your Top Languages" />
 </p>
 
 <br />
@@ -55,7 +62,7 @@ I'm a MSc Autonomous Systems studen at DTU based in Copenhagen, Denmark. I'm pas
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/#" target="_blank">
+  <a href="https://www.linkedin.com/in/nikos-lykouresis-452bba21a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://#" target="_blank">
